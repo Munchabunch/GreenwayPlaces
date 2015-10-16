@@ -1,0 +1,26 @@
+<Cities>
+	<City>
+		<StateAbbr>ME</StateAbbr>
+		<Title>Calais</Title>
+		<YCoord>63</YCoord>
+		<XCoord>409</XCoord>
+	</City>
+	<City>
+		<StateAbbr>ME</StateAbbr>
+		<Title>Bangor</Title>
+		<YCoord>79</YCoord>
+		<XCoord>376</XCoord>
+	</City>
+	<City>
+		<StateAbbr>MA</StateAbbr>
+		<Title>Worcester</Title>
+		<YCoord>241</YCoord>
+		<XCoord>324</XCoord>
+	</City>
+	<City>
+		<StateAbbr>SC</StateAbbr>
+		<Title>Charleston</Title>
+		<YCoord>668</YCoord>
+		<XCoord>178</XCoord>
+	</City>
+</Cities>
